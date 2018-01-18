@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/sunnypdater/Library/Android/sdk/extras/m2repository/com/android/support/constraint/constraint-layout-solver/1.0.0/constraint-layout-solver-1.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="21.1.2"
+        sha1="90493f2ea15ff3f57416368123e5d4d180e0c6fd">
+        <dex dex="/Users/sunnypdater/proJ/CMS50FW/cms50fwlibtestapp/build/intermediates/transforms/dex/debug/folders/1000/10/constraint-layout-solver-1.0.0_16e722bb080ba2ab854cde052f43284ef26ccb63/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/sunnypdater/proJ/CMS50FW/cms50fwlibtestapp/build/intermediates/exploded-aar/com.android.support.constraint/constraint-layout/1.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="21.1.2"
+        sha1="d20672631818754557255886d3feb43e7fe75a66">
+        <dex dex="/Users/sunnypdater/proJ/CMS50FW/cms50fwlibtestapp/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support.constraint-constraint-layout-1.0.0_5ee985389527a31754b65adc630d2e9c647c0859/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/sunnypdater/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/21.0.0/support-annotations-21.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="21.1.2"
+        sha1="1a578b9607b36266c63d43a4fa0ab5664dbe911e">
+        <dex dex="/Users/sunnypdater/proJ/CMS50FW/cms50fwlibtestapp/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-21.0.0_e36d975f937863fc7b700b15f31829c1f35ca000/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/sunnypdater/proJ/CMS50FW/cms50fwlibtestapp/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.0/jars/libs/internal_impl-21.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="21.1.2"
+        sha1="1609e6d42d0480b0f4188e2c29f75388fa12a8f0">
+        <dex dex="/Users/sunnypdater/proJ/CMS50FW/cms50fwlibtestapp/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-21.0.0_f80005f47add67256ae840b47150e0384490e576/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/sunnypdater/proJ/CMS50FW/cms50fwlibtestapp/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="21.1.2"
+        sha1="95fd37732ec852e99f07eeb516a3650172f1d136">
+        <dex dex="/Users/sunnypdater/proJ/CMS50FW/cms50fwlibtestapp/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-21.0.0_8875d44d3fd1c3f23c5b2d5a0907aa23772970d4/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/sunnypdater/.gradle/caches/modules-2/files-2.1/io.realm/realm-android/0.87.5/ab4e1fead1380252dad0e95658e53ea0c113e89c/realm-android-0.87.5.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="21.1.2"
+        sha1="ab4e1fead1380252dad0e95658e53ea0c113e89c">
+        <dex dex="/Users/sunnypdater/proJ/CMS50FW/cms50fwlibtestapp/build/intermediates/transforms/dex/debug/folders/1000/10/realm-android-0.87.5_aea0983f1312971da24c4f2fdef2c9586555655d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/sunnypdater/.gradle/caches/modules-2/files-2.1/com.github.PhilJay/MPAndroidChart/v3.0.1/369f9aa48a629b4e92557b37326f42dc3de796e4/MPAndroidChart-v3.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="21.1.2"
+        sha1="369f9aa48a629b4e92557b37326f42dc3de796e4">
+        <dex dex="/Users/sunnypdater/proJ/CMS50FW/cms50fwlibtestapp/build/intermediates/transforms/dex/debug/folders/1000/10/MPAndroidChart-v3.0.1_6f02eb68688a2af50ac9d0846e33c8fae36baba3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/sunnypdater/proJ/CMS50FW/cms50fwlibtestapp/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="21.1.2"
+        sha1="686344a780033e4ba22b926cd225f8d4941247e6">
+        <dex dex="/Users/sunnypdater/proJ/CMS50FW/cms50fwlibtestapp/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-21.0.0_ec991adf72395f255a69fb53dfc845da5c894513/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/sunnypdater/proJ/CMS50FW/cms50fwlibtestapp/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="21.1.2"
+        sha1="691f8dde6b7db30ab141c9e9a7f412dc451126e2">
+        <dex dex="/Users/sunnypdater/proJ/CMS50FW/cms50fwlibtestapp/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_e88cdff5dcd646ac048d1aaa2a04d1ab6bab1249/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/sunnypdater/proJ/CMS50FW/cms50fwlibtestapp/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="21.1.2"
+        sha1="a77d8549d14df089b29ddc0532ce365d3845c258">
+        <dex dex="/Users/sunnypdater/proJ/CMS50FW/cms50fwlibtestapp/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_0308f015fbcb3dd0809ad337f450127634836a8f/classes.dex" />
+    </item>
+
+</items>
